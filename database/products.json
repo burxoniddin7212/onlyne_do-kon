@@ -1,0 +1,50 @@
+[
+    {
+        "product_id": 1,
+        "sub_category_id": 1,
+        "model": "redmi",
+        "product_name": "redmi note 6 pro",
+        "color": "bleack",
+        "price": "150"
+    },
+    {
+        "product_id": 3,
+        "sub_category_id": 2,
+        "model": "artel",
+        "product_name": "Artel 48 2x",
+        "color": "bleack",
+        "price": "150"
+    },
+    {
+        "product_id": 4,
+        "sub_category_id": 3,
+        "model": "hp",
+        "product_name": "hp pavilon",
+        "color": "bleack",
+        "price": "150"
+    },
+    {
+        "product_id": 2,
+        "sub_category_id": 1,
+        "model": "samsung",
+        "product_name": "galaxy",
+        "color": "bleack",
+        "price": "150"
+    },
+    {
+        "product_id": 5,
+        "sub_category_id": 4,
+        "model": "salamandra",
+        "product_name": "salamandra 42 x1",
+        "color": "bleack",
+        "price": "150"
+    },
+    {
+        "product_id": 6,
+        "sub_category_id": 5,
+        "model": "polo",
+        "product_name": "polo xr13",
+        "color": "bleack",
+        "price": "150"
+    }
+]
