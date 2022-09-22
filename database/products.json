@@ -46,5 +46,21 @@
         "product_name": "polo xr13",
         "color": "bleack",
         "price": "150"
+    },
+    {
+        "product_id": 7,
+        "sub_category_id": 2,
+        "product_name": "Artel 48 2x",
+        "model": "artel",
+        "color": "bleack",
+        "price": "155"
+    },
+    {
+        "product_id": 8,
+        "sub_category_id": 2,
+        "product_name": "Artel 48 2x",
+        "model": "artel",
+        "color": "white",
+        "price": "165"
     }
 ]

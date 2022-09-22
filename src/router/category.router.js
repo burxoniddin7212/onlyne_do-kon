@@ -13,9 +13,9 @@ categoryRouter.delete('/categories/:id', [cheekToken], DELETECATEGORIES)
 categoryRouter.get('/categories/:id', GETCATEGORIES)
 categoryRouter.get('/subcategories', GETSUBCATEGORYS)
 categoryRouter.get('/subcategories/:id', GETSUBCATEGORYS)
-categoryRouter.post('/subcategories', POSTSUBCATEGORIES)
-categoryRouter.put('/subcategories', UPDATESUBCATEGORIES)
-categoryRouter.delete('/subcategories/:id', DELETESUBCATEGORIES)
+categoryRouter.post('/subcategories',[cheekToken], POSTSUBCATEGORIES)
+categoryRouter.put('/subcategories',[cheekToken], UPDATESUBCATEGORIES)
+categoryRouter.delete('/subcategories/:id',[cheekToken], DELETESUBCATEGORIES)
 
 
 
